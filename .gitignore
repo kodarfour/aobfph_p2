@@ -32,6 +32,10 @@ MANIFEST
 *.manifest
 *.spec
 
+location-history.json
+significant_locations.csv
+labeled_clusters.csv
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
